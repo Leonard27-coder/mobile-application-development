@@ -13,6 +13,8 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             Greeting(name = "Jacob")
+            Greeting(name = "George")
+            Greeting(name = "Alex")
         }
     }
 }
