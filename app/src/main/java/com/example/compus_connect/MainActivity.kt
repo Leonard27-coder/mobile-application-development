@@ -12,7 +12,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         setContent {
-            Greeting(name = "World")
+            Greeting(name = "Jacob")
         }
     }
 }
